@@ -1,0 +1,11 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+scipy>=1.11
+plotly>=5.18
+qutip>=4.7
+matplotlib>=3.7
+# Optional: PyTorch for LSTM extension
+# torch>=2.0
+# viresclient for real ESA Swarm data
+# viresclient>=0.11
